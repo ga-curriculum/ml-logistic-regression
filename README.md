@@ -23,9 +23,9 @@ An introduction to Logistic Regression: what it is, how it works, and how to run
 
 | Topic | About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| - Describe the principles of Logistic Regression-<br/>- Interpret the coefficients of a Logistic Regression model.-<br/>- State the assumptions of a Logistic Regression model. |
-| [02 Logistic Regression](./02-logistic-regression) | - Fit, evaluate, and generate predictions from a Logistic Regression model in `scikit-learn` |
-| [Practice](./practice/) | An optional additional exercise to help practice building logistic regression models|
+| [Full Lesson Deck](https://github.com/ga-curriculum/ml-logistic-regression/blob/main/01-slides/ML-Logistic-Regression.pdf){:target="_blank"}| - Describe the principles of Logistic Regression-<br/>- Interpret the coefficients of a Logistic Regression model.-<br/>- State the assumptions of a Logistic Regression model. |
+| [02 Logistic Regression](https://github.com/ga-curriculum/ml-logistic-regression/tree/main/02-logistic-regression){:target="_blank"} | - Fit, evaluate, and generate predictions from a Logistic Regression model in `scikit-learn` |
+| [Practice](https://github.com/ga-curriculum/ml-logistic-regression/tree/main/practice){:target="_blank"} | An optional additional exercise to help practice building logistic regression models|
 
 
 ## Prerequisites
